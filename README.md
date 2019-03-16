@@ -1,6 +1,6 @@
 
 # WelcomeSpring Boot Quiz System
-The idea of the application is to launch quiz and check his preparation on the corresponding topic.
+The idea of the application is to launch quiz and check his/her preparation on the corresponding topic.
 
 ## Getting Started
 All the code required to run this project is available in this Git repository. You can either download it as a zip file from Github or run:
